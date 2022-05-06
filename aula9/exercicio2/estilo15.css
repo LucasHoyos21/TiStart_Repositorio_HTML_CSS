@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-image: url(../exercicio/css/9f5f2b0b7cb46ce3b491e6cd807831d7.jpg);
+    background-size: 25%;
+    background-repeat: repeat;
+}
